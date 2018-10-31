@@ -1,0 +1,8 @@
+C:\Users\Lamond Lu\OneDrive\博客\私人笔记\技术相关\待学习\GraphQL\课程例子\Orders\bin\Debug\netcoreapp2.1\Orders.deps.json
+C:\Users\Lamond Lu\OneDrive\博客\私人笔记\技术相关\待学习\GraphQL\课程例子\Orders\bin\Debug\netcoreapp2.1\Orders.dll
+C:\Users\Lamond Lu\OneDrive\博客\私人笔记\技术相关\待学习\GraphQL\课程例子\Orders\obj\Debug\netcoreapp2.1\Orders.csproj.CoreCompileInputs.cache
+C:\Users\Lamond Lu\OneDrive\博客\私人笔记\技术相关\待学习\GraphQL\课程例子\Orders\obj\Debug\netcoreapp2.1\Orders.AssemblyInfoInputs.cache
+C:\Users\Lamond Lu\OneDrive\博客\私人笔记\技术相关\待学习\GraphQL\课程例子\Orders\obj\Debug\netcoreapp2.1\Orders.AssemblyInfo.cs
+C:\Users\Lamond Lu\OneDrive\博客\私人笔记\技术相关\待学习\GraphQL\课程例子\Orders\bin\Debug\netcoreapp2.1\Orders.pdb
+C:\Users\Lamond Lu\OneDrive\博客\私人笔记\技术相关\待学习\GraphQL\课程例子\Orders\obj\Debug\netcoreapp2.1\Orders.dll
+C:\Users\Lamond Lu\OneDrive\博客\私人笔记\技术相关\待学习\GraphQL\课程例子\Orders\obj\Debug\netcoreapp2.1\Orders.pdb
